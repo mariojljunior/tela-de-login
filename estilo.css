@@ -1,0 +1,17 @@
+body{
+    background-color: #f0f0f0;
+}
+
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.card{
+    box-shadow: 1px 1px 5px #cccccc;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 5px;
+
+}
